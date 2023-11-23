@@ -1,4 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Screenshot 2023-11-23 124416](https://github.com/Tiran-Jayasekara/FrontEndAssignment_Ceylon_Dazzling_Dev_Holding_PvtLtd/assets/70306643/35ceeb52-e749-41ff-b236-dc7a2421ee59)
+![Screenshot 2023-11-23 132501](https://github.com/Tiran-Jayasekara/FrontEndAssignment_Ceylon_Dazzling_Dev_Holding_PvtLtd/assets/70306643/516e8aa9-1e01-4bc9-813b-8ce7c6e6ef34)
+![Screenshot 2023-11-23 132450](https://github.com/Tiran-Jayasekara/FrontEndAssignment_Ceylon_Dazzling_Dev_Holding_PvtLtd/assets/70306643/5456d2c1-17fc-48da-9890-9d3acc917558)
+![Screenshot 2023-11-23 132440](https://github.com/Tiran-Jayasekara/FrontEndAssignment_Ceylon_Dazzling_Dev_Holding_PvtLtd/assets/70306643/4a65a2df-12e1-47ba-8022-c58019640d97)
+![Screenshot 2023-11-23 132425](https://github.com/Tiran-Jayasekara/FrontEndAssignment_Ceylon_Dazzling_Dev_Holding_PvtLtd/assets/70306643/820684c2-7218-4cd9-92eb-c48bc2a6fc2d)
+![Screenshot 2023-11-23 132354](https://github.com/Tiran-Jayasekara/FrontEndAssignment_Ceylon_Dazzling_Dev_Holding_PvtLtd/assets/70306643/47b0cdca-d903-4070-a34c-563374a6cd62)
+![Screenshot 2023-11-23 124504](https://github.com/Tiran-Jayasekara/FrontEndAssignment_Ceylon_Dazzling_Dev_Holding_PvtLtd/assets/70306643/1c754bdf-6ae0-426d-b25c-85672fa0b18f)
 
 ## Getting Started
 
