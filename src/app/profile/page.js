@@ -17,7 +17,7 @@ const Profile = () => {
       <img
         src="https://img.indiafilings.com/learn/wp-content/uploads/2016/09/12010621/Company-Management.jpg"
         alt="background"
-        className="absolute inset-0  min-h-full object-cover md:flex "
+        className="absolute inset-0 w-full md:h-full object-cover hidden md:flex "
       />
       
       <div className="rounded-xl mb-10 bg-white bg-opacity-40 backdrop-blur-xl border px-4 md:px-6 md:mt-10 h-100vh md:ml-40 md:mr-40 mt-20 mx-2 ">
